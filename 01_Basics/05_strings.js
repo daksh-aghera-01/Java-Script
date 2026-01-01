@@ -20,7 +20,7 @@ const gameName = new String('daksh-ad-com')
 const newString = gameName.substring(0, 4)
 console.log(newString);
 
-const anotherString = gameName.slice(-6, 4)
+const anotherString = gameName.slice(-10, 4)
 console.log(anotherString);
 
 const newStringOne = "   daksh    "

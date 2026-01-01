@@ -10,7 +10,7 @@ accountEmail = "ad@ad.com"
 accountPassword = "010101"
 accountCity = "Vadodara"
 
-console.log(accountID);
+// console.log(accountID);
 console.table([accountID, accountEmail, accountPassword, accountCity, accountState])
 
 /*

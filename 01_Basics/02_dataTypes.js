@@ -6,7 +6,7 @@ console.log(3
     +
      3) // code readability should be high
 
-console.log("Daksh")
+console.log("Daksh");
 
 
 let name = "Daksh"
